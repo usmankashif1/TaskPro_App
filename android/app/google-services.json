@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413578669709",
+    "project_id": "taskpro-69f5d",
+    "storage_bucket": "taskpro-69f5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413578669709:android:074fb7bc00ff1968d6bcc4",
+        "android_client_info": {
+          "package_name": "com.taskpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClZD6JrLDitzYEbBq_isMZ7zo46OAvlkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
